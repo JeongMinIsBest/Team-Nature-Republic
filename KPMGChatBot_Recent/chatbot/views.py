@@ -19,14 +19,14 @@ def home(request):
 
     return render(request, "chathome.html", context)
 
-@csrf_exempt
-def chattrain(request):
+# @csrf_exempt
+def chattrain():
     context = {}
 
     print('chattrain ---> +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
 
     # file = open(f"{CURRENT_WORKING_DIRECTORY}intents.json", encoding="UTF-8")
-    file = open(f"./static/intents.json", encoding="UTF-8")
+    file = open(f"../static/intents.json", encoding="UTF-8")
     data = json.loads(file.read())
 
     # js = json.loads(data.decode("utf-8"))
@@ -89,11 +89,11 @@ def chattrain(request):
     from colorama import Fore, Style, Back
 
     # to save the fitted tokenizer
-    with open('static/tokenizer.pickle', 'wb') as handle:
+    with open('../static/tokenizer.pickle', 'wb') as handle:
         pickle.dump(tokenizer, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
     # to save the fitted label encoder
-    with open('static/label_encoder.pickle', 'wb') as ecn_file:
+    with open('../static/label_encoder.pickle', 'wb') as ecn_file:
         pickle.dump(lbl_encoder, ecn_file, protocol=pickle.HIGHEST_PROTOCOL)
 
     context['result_msg'] = 'Success'
@@ -140,7 +140,7 @@ def chatanswer(request):
 
         for i in data['intents']:
             if i['tag'] == tag:
-                txt1 = np.random.choice(i['responses'])
+                txt1 = (i['responses'])
                 print(Fore.GREEN + "ChatBot:" + Style.RESET_ALL, txt1)
 
         # print(Fore.GREEN + "ChatBot:" + Style.RESET_ALL,random.choice(responses))
