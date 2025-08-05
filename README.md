@@ -2,6 +2,10 @@
 
 **2023 KPMG Ideathon 본선 TOP 11 진출 작품**, **Team Nature Republic**의 **Bording Pass** 프로젝트 레포지터리입니다.  
 **신입사원의 온보딩 문제를 해결**하기 위해 **자연어처리(NLP) 기반**의 **문서 이해 챗봇 시스템**을 개발했습니다.
+
+![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0001](https://github.com/user-attachments/assets/758942da-9535-4dbd-adf6-a4a63f4aa4f1)
+
+![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0010](https://github.com/user-attachments/assets/66b7d205-a67a-4715-af35-1f3413c005a1)
 <br/>
 <br/>
 
@@ -14,6 +18,8 @@
 
 **Boarding Pass**는 신입 직원 및 협업 직원들이 기업 문서를 보다 빠르게 이해하고,  
 필요한 정보를 쉽게 찾을 수 있도록 도와주는 **지능형 챗봇 서비스**입니다.
+
+![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0004](https://github.com/user-attachments/assets/523acd54-5ed9-4aed-8fa7-866e4c74b7a2)
 <br/>
 <br/>
 
