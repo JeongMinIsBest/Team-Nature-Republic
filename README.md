@@ -1,6 +1,6 @@
 # 온보딩과 업무를 빠르게! 효율적으로! - “Boarding Pass 🎫”
 
-2023 KPMG Ideathon 본선 TOP 11에 진출 작품, Team Nature Republic의 Bording Pass 프로젝트 레포지터리입니다.
+2023 KPMG Ideathon 본선 TOP 11에 진출 작품, Team Nature Republic의 Bording Pass 프로젝트 레포지터리입니다.  
 신입사원의 온보딩 문제를 해결하기 위해 자연어처리(NLP) 기반의 문서 이해 챗봇 시스템을 개발했습니다.
 <br/>
 
