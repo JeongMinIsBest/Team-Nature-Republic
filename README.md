@@ -83,6 +83,12 @@ python manage.py runserver
 ```
 http://127.0.0.1:8000/
 ```
+<br/>
+<br/>
+
+
+## 🖥️ 프로토타입 실행 모습
+<br/>
 
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0033](https://github.com/user-attachments/assets/f8100354-53fb-427a-a886-480df4dfa85c)
 <br/>
@@ -92,7 +98,7 @@ http://127.0.0.1:8000/
 ## 📈 기대 효과
 <br/>
 
-- 신입 직원의 빠른 적응과 독립적 업무 수행 가능 🆗
+- 신입 직원의 빠른 적응과 독립적 업무 수행 가능 🙆🏻‍♀️
 - ESG 기반의 지속 가능한 스마트 업무 환경 조성 🌱
 - 조직 내 정보 격차 해소 및 업무 효율성 증대 💪🏻
 <br/>
@@ -102,7 +108,7 @@ http://127.0.0.1:8000/
 ## 👥 TEAM Nature Republic 소개
 <br/>
 
-**TEAM Nature Republic**은 **“자연”**어 처리를 위해 **“자연”**스레 모인 융합형 팀입니다.  
+**TEAM Nature Republic**은 **자연**어 처리를 위해 **자연**스레 모인 융합형 팀입니다.  
 **문헌정보학**, **소프트웨어공학(컴퓨터공학)** 전공의 협업을 통해 **신입사원 온보딩 문제**를 **해결**하고자 했습니다.
 
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0003](https://github.com/user-attachments/assets/5928f819-b813-4213-8094-44c2c5fb1582)
