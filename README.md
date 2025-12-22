@@ -3,7 +3,7 @@
 
 This repository contains **Boarding Pass**, a project developed by Team Nature Republic, **selected as Top 11 Finalist at the 2023 KPMG Ideathon**.
 **Boarding Pass** is an **NLP-based document understanding chatbot system designed to address common onboarding challenges faced by new employees**.
-
+  
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0001](https://github.com/user-attachments/assets/758942da-9535-4dbd-adf6-a4a63f4aa4f1)
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0010](https://github.com/user-attachments/assets/66b7d205-a67a-4715-af35-1f3413c005a1)
 <br/>
@@ -19,7 +19,7 @@ This repository contains **Boarding Pass**, a project developed by Team Nature R
 - 😫 Existing Notion-based guides provide limited practical support
 
 **Boarding Pass** is an intelligent chatbot service that helps new **hires and collaborators** quickly understand internal corporate documents and easily retrieve the information they need to perform their tasks efficiently.
-
+  
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0004](https://github.com/user-attachments/assets/523acd54-5ed9-4aed-8fa7-866e4c74b7a2)
 <br/>
 <br/>
@@ -62,7 +62,7 @@ Summarizes and shares key issues from Slack-based messages to help team members 
 | Backend | Python, Django (MTV Architecture) |
 | Database | Financial statement footnotes, simulated Slack message DB |
 | Others | Web crawling, text summarization, document similarity computation |
-
+  
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0014](https://github.com/user-attachments/assets/300f238a-2f4e-4cda-a9ef-38f9b34f09a2)
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0032](https://github.com/user-attachments/assets/6ec2fb99-b7bf-4750-93f2-639d93ba2ec5)
 <br/>
