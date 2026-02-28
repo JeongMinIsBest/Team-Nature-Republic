@@ -96,7 +96,7 @@ http://127.0.0.1:8000/
 -   💪 정보 비대칭 감소 및 조직 효율성 향상
 
 ## 👥 TEAM Nature Republic 소개
-**Team Nature Republic**은 자연어처리(NLP)에 대한 공통된 관심을 기반으로 자발적으로 결성된 융합 팀입니다. **문헌정보학(Library & Information Science)**과 **소프트웨어공학(컴퓨터공학)**의 전문성을 결합하여, 실제 조직에서 발생하는 온보딩 문제를 해결하고자 하였습니다.
+**Team Nature Republic**은 자연어처리(NLP)에 대한 공통된 관심을 기반으로 자발적으로 결성된 융합 팀입니다. 문헌정보학(Library & Information Science)과 소프트웨어공학(컴퓨터공학)의 전문성을 결합하여, 실제 조직에서 발생하는 온보딩 문제를 해결하고자 하였습니다.
   
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0003](https://github.com/user-attachments/assets/5928f819-b813-4213-8094-44c2c5fb1582)
 <br/>
