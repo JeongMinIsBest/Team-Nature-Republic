@@ -1,6 +1,7 @@
 # Fast & Efficient Onboarding ! - “Boarding Pass 🎫”
-This repository contains **Boarding Pass**, a project developed by Team Nature Republic, **selected as Top 11 Finalist at the 2023 KPMG Ideathon**.
-**Boarding Pass** is an **NLP-based document understanding chatbot system designed to address common onboarding challenges faced by new employees**.
+This repository contains the source code for **Boarding Pass**, a project developed by **Team Nature Republic** and selected as one of the **Top 11 finalists at the 2023 KPMG Ideathon**.
+  
+**Boarding Pass** is an **NLP-based chatbot that helps new employees find and understand information in internal company documents during the onboarding process**.
   
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0001](https://github.com/user-attachments/assets/758942da-9535-4dbd-adf6-a4a63f4aa4f1)
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0010](https://github.com/user-attachments/assets/66b7d205-a67a-4715-af35-1f3413c005a1)
@@ -103,12 +104,13 @@ http://127.0.0.1:8000/
 
 
 ## 👥 About TEAM Nature Republic
-**Team Nature Republic** is an interdisciplinary team formed organically around a shared interest in Natural Language Processing.
-By combining expertise from **Library & Information Science** and **Software Engineering (Computer Science)**, the team aimed to solve real-world onboarding challenges faced by new employees.
+**Team Nature Republic** is an interdisciplinary team formed by members with a shared interest in Natural Language Processing.
+  
+The team brought together backgrounds in Library & Information Science and Software Engineering (Computer Science) to address the difficulties new employees face when searching for and understanding internal company information.
+  
+By combining document understanding and information retrieval techniques, the team developed a chatbot that helps users find the information they need during onboarding and collaboration.
   
 ![최종본  KPMG_네이처리퍼블릭_BoardingPass_page-0003](https://github.com/user-attachments/assets/5928f819-b813-4213-8094-44c2c5fb1582)
-  
-This project demonstrates how NLP techniques can be applied to real-world organizational problems, bridging document understanding, knowledge retrieval, and collaborative workflows.
 <br/>
 <br/>
 
