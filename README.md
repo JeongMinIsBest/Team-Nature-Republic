@@ -12,8 +12,8 @@ This repository contains the source code for **Boarding Pass**, a project develo
 ## 📌 Project Overview
 - ⏱ **Average onboarding period**: 32 days
 - 💰 **Average hiring cost per employee**: approx. KRW 13 million
-- 📉 Rising turnover rates and inefficient knowledge transfer
-- 😫 Existing Notion-based guides provide limited practical support
+- 📉 **Rising turnover rates and inefficient knowledge transfer**
+- 😫 **Existing Notion-based guides provide limited practical support**
   
 **Boarding Pass** is an intelligent chatbot service that helps new **hires and collaborators** quickly understand internal corporate documents and easily retrieve the information they need to perform their tasks efficiently.
   
@@ -96,9 +96,9 @@ http://127.0.0.1:8000/
 
 
 ## 📈 Expected Impact
-- 🚀 Faster onboarding and early task independence for new employees
-- 🌱 Creation of a sustainable, ESG-oriented smart working environment
-- 💪 Reduced information asymmetry and improved organizational efficiency
+- 🚀 **Faster onboarding and early task independence for new employees**
+- 🌱 **Creation of a sustainable, ESG-oriented smart working environment**
+- 💪 **Reduced information asymmetry and improved organizational efficiency**
 <br/>
 <br/>
 
